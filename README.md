@@ -13,13 +13,10 @@
     <li>A imagem do Bill Gates e as caracteristicas dele.</li>
 </ul>
 
-</br>
 
 <h1>Projeto Original</h1>
 
 https://www.youtube.com/watch?v=bLNar9fmtqk&t=1s
-
-</br>
 
 <h1>Tecnologias</h1>
 
@@ -27,8 +24,6 @@ https://www.youtube.com/watch?v=bLNar9fmtqk&t=1s
     <li>HTML</li>
     <li>CSS</li>
 </ul>
-
-</br>
 
 <h1>Sites </h1>
 
