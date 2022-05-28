@@ -16,7 +16,7 @@
 
 <h1>Projeto Original</h1>
 
-https://www.youtube.com/watch?v=bLNar9fmtqk&t=1s
+<a href="https://www.youtube.com/watch?v=bLNar9fmtqk&t=1s" target="_blank">https://www.youtube.com/watch?v=bLNar9fmtqk&t=1s</a>
 
 <h1>Tecnologias</h1>
 
