@@ -10,6 +10,7 @@
 
 <ul>
     <li>Adicionei a propriedade "background-position", pois a imagem estava cortando a parte do rosto do Bill Gates.</li>
+    <li>Adicionei a favicon do tinder.</li>
     <li>A imagem do Bill Gates e as caracteristicas dele.</li>
 </ul>
 
